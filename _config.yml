@@ -31,7 +31,7 @@ owner:
   bio: "Teacher in Kobe, Japan. Learning to code, get fit and play guitar"
   email: 
   disqus-shortname: joe-robertson 
-  twitter: #Joe_g_Robertson
+  twitter: Joe_g_Robertson
   facebook: #username
   google:
     plus: #username
@@ -40,20 +40,20 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #Joe-Robertson
+  github: Joe-Robertson
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #jgrsparks
+  instagram: jgrsparks
   lastfm: #username
-  tumblr: #ginsoakedboy
-  pinterest: #eojrobertson
+  tumblr: ginsoakedboy
+  pinterest: eojrobertson
   foursquare: #username
   steam: #username
   dribbble: #username
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: eoj.robertson
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
