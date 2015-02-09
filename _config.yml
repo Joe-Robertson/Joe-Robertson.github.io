@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            Site Title
-locale:           en_US
+locale:           en_UK
 url:              
 
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Joe Robertson
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Teacher in Kobe, Japan. Learning to code, get fit and play guitar"
   email: 
-  disqus-shortname: 
-  twitter: #username
+  disqus-shortname: joe-robertson 
+  twitter: #Joe_g_Robertson
   facebook: #username
   google:
     plus: #username
@@ -40,13 +40,13 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: #Joe-Robertson
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: #jgrsparks
   lastfm: #username
-  tumblr: #username
-  pinterest: #username
+  tumblr: #ginsoakedboy
+  pinterest: #eojrobertson
   foursquare: #username
   steam: #username
   dribbble: #username
