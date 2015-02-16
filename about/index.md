@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About me
+tags: [about, Jekyll]
+modified: 2015-02-16T20:53:07.573882-04:00
 comments: true
 image:
   feature: sample-image-2.jpg
@@ -10,16 +10,15 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+My name is Joe. I'm 23 and I live in Japan. I'm an ALT and in all the spare time I have at school I'm trying to learn as much as possible. I'm taking some courses online and having a go at stuff first hand and this is where I'm going to document it all.
 
-## Minimal Mistakes is all about:
+## This blog is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Japan and the Japanese language
+* Learning to program 
+* Getting in shape
+* Travelling
+* Reading and books
+* Figuring out what on earth this is all about
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+<a markdown="0" href="{{ site.url }}/posts" class="btn">To the blog</a>
