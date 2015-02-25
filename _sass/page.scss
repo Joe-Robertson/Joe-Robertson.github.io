@@ -24,7 +24,6 @@ body {
 
 /* Site name */
 .site-name {
-	color: 00FFFF;
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
@@ -46,7 +45,6 @@ body {
 
 /* Top navigation links */
 .top-navigation {
-	color: 00FFFF;
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
