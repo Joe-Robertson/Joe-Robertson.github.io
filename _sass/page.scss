@@ -3,9 +3,7 @@
    ========================================================================== */
 
 body {
-	background-color: $bodycolor;
-	font-family: $base-font;
-	color: $text-color;
+
 }
 
 /* 
@@ -13,13 +11,14 @@ body {
    ========================================================================== */
 
 .navigation-wrapper {
+	background-color: #000000;
+	font-family: $base-font;
+	color: #FFFFFF;
 	@include container;
 	padding: 2em 0 1em;
 	font-family: $heading-font;
 	font-weight: 700;
-	font-color: #FFFFFF;
 	text-transform: uppercase;
-	color: #000000;
 	@include clearfix;
 }
 
@@ -220,6 +219,9 @@ $button-size: 1.5rem;
 
 /* Main content */
 #main {
+	background-color: $bodycolor;
+	font-family: $base-font;
+	color: $text-color;
 	counter-reset: captions;
 	@include container;
 	@include clearfix;
@@ -625,6 +627,9 @@ $button-size: 1.5rem;
 
 /* Footer wrapper */
 .footer-wrap {
+	background-color: $bodycolor;
+	font-family: $base-font;
+	color: $text-color;
 	@include container;
 	@include clearfix;
 	clear: both;
