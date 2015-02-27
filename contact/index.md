@@ -7,18 +7,8 @@ image:
   creditlink: https://flic.kr/p/bWo7Au
 ---
 
-
-
-<div class="py2">
- 
-	<form action="https://formspree.io/eoj.robertson@yahoo.com" method="POST" class="form-stacked form-light">
-
-	    <input type="text" name="email" class="input mobile-block" placeholder="Email Address">
-	
-    <textarea type="text" name="content" class="input mobile-block" rows="5" placeholder="How can I help?"></textarea>
-
-	    <input type="submit" class="button button-blue button-big mobile-block" value="Send">
-
-  </form>
-
-</div>
+<form action="//formspree.io/eoj.robertson@yahoo.com">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
