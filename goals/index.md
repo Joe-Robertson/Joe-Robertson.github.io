@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About me
-tags: [about, Jekyll]
-modified: 2015-02-16T20:53:07.573882-04:00
+title: My goals for 2015
+tags: [about, goals]
+modified: 2015-02-27T20:53:07.573882-04:00
 comments: true
 image:
   feature: sample-image-5.jpg
@@ -10,15 +10,36 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-My name is Joe. I'm 23 and I live in Japan. I'm an ALT and in all the spare time I have at school I'm trying to learn as much as possible. I'm taking some courses online and having a go at stuff first hand and this is where I'm going to document it all.
+This year there are a lot of things I want to try and get done. I think some are a bit tricky but it's good to have goals and it'll be a good year if a get a bunch of these done. When I've finished a goal I'll try and post about it on the blog too and link to it here.
 
-## This blog is all about:
+## The list
 
-* Japan and the Japanese language
-* Learning to program 
-* Getting in shape
-* Travelling
-* Reading and books
-* Figuring out what on earth this is all about
+*Join gym, get fit and get weight to 75kg
+*get over 100 LinkedIn connections
+*Visit South Korea
+*Watch the sumo
+*Climb 3 mountains
+*Read 30 books (English)
+*Read 6 books (Japanese)
+*Complete 5 manga series
+*Start using twitter, facebook, instagram and tumblr
+*Use students names and remember them!
+*Visit consulate and ask for a short internship in holidays
+*Learn to play basketball and baseball by going to bukatsu
+*Go snowboarding at least 2 times
+*Run a marathon
+*Watch the footy weekly and play most weeks
+*Organize at least 5 social events
+*Knock 6 things off my bucket list
+*Apply to 25 jobs
+*Finish Mark Kistler's You can draw in 30 days
+*Learn how to take photos
+*Learn how to take a decent video and upload to youtube for views
+*Finish bobby fishers guide to chess book
+*Start a letter box at school
+*Become an excel wizard
+*Make a playlist on 8tracks
+*Get in the Google Summer of code
+*Read Kelly Starrett's becoming a supple leopard and learn how to look after my bod
+*Learn to skip like a boxer (or like a 10 year old Japanese kid)
 
-<a markdown="0" href="{{ site.url }}/posts" class="btn">To the blog...</a>
