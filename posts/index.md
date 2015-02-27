@@ -4,6 +4,6 @@ title: All Posts
 excerpt: "A List of Posts"
 image:
   feature: banner.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: Sam Howzit
+  creditlink: https://flic.kr/p/bWo7Au
 ---
