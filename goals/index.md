@@ -7,7 +7,7 @@ tags:
 modified: {}
 comments: true
 image: 
-  feature: "sample-image-5.jpg"
+  feature: "banner.jpg"
   credit: WeGraphics
   creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
 published: true
