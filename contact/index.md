@@ -8,7 +8,8 @@ image:
 ---
 
 <form action="http://formspree.io/eoj.robertson@yahoo.com" role="form" method="POST" class="form-stacked form-light">
-    <input type="text" name="email" class="input mobile-block" placeholder="Email Address">
+    <input type="text" name="name" class="input mobile-block" placeholder="Name">
+    <input type="email" name="_replyto" class="input mobile-block" placeholder="somebody@something.com">
     <textarea type="text" name="content" class="input mobile-block" rows="3" placeholder="How can I help you?"></textarea>
     <input type="submit" class="button button-blue button-big mobile-block" value="Send">
   </form>
