@@ -5,9 +5,9 @@ tags: [about, Jekyll]
 modified: 2015-02-16T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: banner.jpg
+  credit: Sam Howzit
+  creditlink: https://flic.kr/p/bWo7Au
 ---
 
 My name is Joe. I'm 23 and I live in Japan. I'm an ALT and in all the spare time I have at school I'm trying to learn as much as possible. I'm taking some courses online and having a go at stuff first hand and this is where I'm going to document it all.
