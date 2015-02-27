@@ -17,6 +17,8 @@ This year there are a lot of things I want to try and get done. I think some are
 
 ## The list
 
+
+
 *Join gym, get fit and get weight to 75kg
 *Finish Harvard's cs50
 *Finish Justin Guitar's beginners course
@@ -45,5 +47,5 @@ This year there are a lot of things I want to try and get done. I think some are
 *Become an excel wizard
 *Make a playlist on 8tracks
 *Get in the Google Summer of code
-*Read Kelly Starrett's becoming a supple leopard and learn how to look after my 
+*Read Kelly Starrett's becoming a supple leopard and learn how to look after my bod
 *Learn to skip like a boxer (or like a 10 year old Japanese kid)
