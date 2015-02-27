@@ -40,7 +40,7 @@ This year there are a lot of things I want to try and get done. I think some are
 - Learn how to take decent photos
 - Learn how to take a decent video and upload it to YouTube to get some views
 - Finish Bobby Fisher's guide to chess
-- Start a lette box at school
+- Start a letter box at school
 - Become an excel wizard
 - Make a playlist on excel
 - Apply for Google Summer of Code
