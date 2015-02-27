@@ -7,7 +7,7 @@ image:
   creditlink: https://flic.kr/p/bWo7Au
 ---
 
-<form action="//formspree.io/eoj.robertson@yahoo.com"  method:"POST" > 
+<form action="//formspree.io/eoj.robertson@yahoo.com"  method:"POST"> 
     <input type="text" name="email" class="input mobile-block" placeholder="Email Address">
     <textarea type="text" name="content" class="input mobile-block" rows="5" placeholder="What would you like to say?"></textarea>
     <input type="submit" value="Send">
