@@ -21,4 +21,4 @@ My name is Joe. I'm 23 and I live in Japan. I'm an ALT and in all the spare time
 * Reading and books
 * Figuring out what on earth this is all about
 
-<a markdown="0" href="{{ site.url }}/posts" class="btn">To the blog...</a>
+<a markdown="0" href="{{ site.url }}/posts" class="btn btn-info">To the blog...</a>
