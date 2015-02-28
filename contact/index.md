@@ -12,4 +12,5 @@ image:
     <input type="email" name="_replyto" class="input mobile-block" placeholder="somebody@something.com">
     <textarea type="text" name="content" class="input mobile-block" rows="3" placeholder="How can I help you?"></textarea>
     <input type="submit" class="button button-blue button-big mobile-block" value="Send">
+    <input type="hidden" name="_next" value="//joe-robertson.github.io/thanks.html" />
   </form>
