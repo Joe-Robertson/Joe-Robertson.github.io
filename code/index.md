@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Links to my code
 tags: [about, Jekyll]
 modified: 2015-02-16T20:53:07.573882-04:00
 comments: true
@@ -10,15 +10,8 @@ image:
   creditlink: https://flic.kr/p/bWo7Au
 ---
 
-My name is Joe. I'm 23 and I live in Japan. I'm an ALT and in all the spare time I have at school I'm trying to learn as much as possible. I'm taking some courses online and having a go at stuff first hand and this is where I'm going to document it all.
+At the moment I'm working my way through Harvard's cs50 course on edX. It's a really interesting introduction to computer science and seems to build a good foundation by touching on a variety of topics. Professort David Malan and his team of student teachers are all really enthusiastic and make the course fun too. It's pretty tough though and the pace of the course is fast so it's quite a challenge!   
 
-## This blog is all about:
+The course is split into 12 weeks of classes and each week has a set of problems. I'll split the problem sets up into their individual parts and list them here with links to samples of my code. I can't promise everything will be correct as this is my first real attempt at learning to code and so if there are any huge mistakes please get in touch and let me know!  
 
-* Japan and the Japanese language
-* Learning to program 
-* Getting in shape
-* Travelling
-* Reading and books
-* Figuring out what on earth this is all about
 
-<a markdown="0" href="{{ site.url }}/posts" class="btn">To the blog...</a>
