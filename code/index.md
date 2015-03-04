@@ -21,9 +21,9 @@ The course is split into 12 weeks of classes and each week has a set of problems
 - [Scratch](http://scratch.mit.edu/projects/42645350/)
 
 ##Problem set 1
-- Hello
-- Mario
-- Greedy
+- [Hello](/hello-c/)
+- [Mario](/mario-c/)
+- [Greedy](/greedy-c/)
 
 ##Problem set 2
 - Initials
