@@ -7,7 +7,7 @@ tags:
 modified: {}
 comments: true
 image: 
-  feature: "banner.jpg"
+  feature: banner.jpg
   credit: Sam Howzit
   creditlink: "https://flic.kr/p/bWo7Au"
 published: true
@@ -30,7 +30,7 @@ This year there are a lot of things I want to try and get done. I think some are
 - Start using Twitter, Facebook, Instagram and Tumblr
 - Use student's names and remember them!
 - Learn to play basketball and baseball by going to the after school clubs
-- Go snowboarding at least 2 times
+- ~~Go snowboarding at least 2 times~~
 - Run a marathon
 - Get back into watching the premiership weekly and keep playing futsal every week
 - Organize at least 5 social events
