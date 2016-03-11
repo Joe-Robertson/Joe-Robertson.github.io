@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My goals for 2015
+title: 25 by 25
 tags: 
   - about
   - goals
@@ -12,6 +12,7 @@ image:
   creditlink: "https://flic.kr/p/bWo7Au"
 published: true
 ---
+
 
 
 It's my 25th birthday in April this year and so to celebrate being a quarter of a century old I thought I'd make some goals and try to get them finished before the big day. The list has changed a bit as there were a couple I put on originally that didn't end up being possible (like getting tickets to see the sumo! >o<). Hopefully if I can finish this it'll distract me from my inevitable quarter-life crisis! 
@@ -42,5 +43,4 @@ It's my 25th birthday in April this year and so to celebrate being a quarter of 
 22)	 Get bodyweight over 72.5kg  
 23)	 Read Ramit Sethi’s	“I will teach you to be rich” and make my first investment  
 24)	 Do yoga every day for a whole month  
-25)	 Write an individual blog post for each goal  
-  
+25)	 Write an individual blog post for each goal
