@@ -10,8 +10,9 @@ image:
   feature: banner.jpg
   credit: Sam Howzit
   creditlink: "https://flic.kr/p/bWo7Au"
-published: true
+published: false
 ---
+
 
 At the moment I'm working my way through [Harvard's cs50 course on edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). It's a really interesting introduction to computer science and seems to build a good foundation by touching on a variety of topics. Professort David Malan and his team of student teachers are all really enthusiastic and make the course fun too. It's pretty tough though and the pace of the course is fast so it's quite a challenge!
 
