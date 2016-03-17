@@ -15,12 +15,13 @@ published: true
 
 
 
+
 It's my 25th birthday in April this year and so to celebrate being a quarter of a century old I thought I'd make some goals and try to get them finished before the big day. The list has changed a bit as there were a couple I put on originally that didn't end up being possible (like getting tickets to see the sumo! >o<). Hopefully if I can finish this it'll distract me from my inevitable quarter-life crisis! 
 
 ## The list
 
 1)	 Join a driving school and start learning  
-2)	 Run 5km in under 20 minutes  
+2)	 [Run 5km in under 20 minutes](http://joe-robertson.github.io/5km/)  
 3)	 Join a running club  
 4)	 Complete Half-Life 2  
 5)	 Read “Zen and the Art of Motorcycle Maintenance”  
