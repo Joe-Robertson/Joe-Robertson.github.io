@@ -1,21 +1,25 @@
 ---
 layout: page
 title: About me
-tags: [about, Jekyll]
-modified: 2015-02-16T20:53:07.573882-04:00
+tags: 
+  - about
+  - Jekyll
+modified: {}
 comments: true
-image:
+image: 
   feature: banner.jpg
   credit: Sam Howzit
-  creditlink: https://flic.kr/p/bWo7Au
+  creditlink: "https://flic.kr/p/bWo7Au"
+published: true
 ---
 
-My name is Joe. I'm 23 and I live in Japan. I'm an ALT and in all the spare time I have at school I'm trying to learn as much as possible. I'm taking some courses online and having a go at stuff first hand and this is where I'm going to document it all.
+
+My name is Joe. I'm 24 and I live in Japan. I'm a CIR and I'm trying to make the most of my time here in Japan by trying to learn lots of new things and have lots of new experiences.
+
 
 ## This blog is all about:
 
 * Japan and the Japanese language
-* Learning to program 
 * Getting in shape
 * Travelling
 * Reading and books
