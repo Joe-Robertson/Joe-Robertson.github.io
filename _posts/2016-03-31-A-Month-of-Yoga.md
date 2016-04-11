@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: A (whole) month of yoga
 tags: 
@@ -7,6 +7,7 @@ tags:
   - fitness
   - 25/25
 ---
+
 
 
 This one was a little bit iffy. I think I can probably say that I passed it but in the end I actually did 30 days not 31 days of yoga in March… The one day that I missed was the day I rode 106km on a bike and so I’m going to give myself that day off. Still it’s a lot more consistent than I’ve ever been before and I worked pretty hard to squeeze in sessions around work and doing other exercise. I even managed to do a few days after a bottle of wine with dinner. That was a real balance challenge...
