@@ -44,5 +44,5 @@ It's my 25th birthday in April this year and so to celebrate being a quarter of 
 21)	 Learn how to cook a fancy meal  
 22)	 Get bodyweight over 72.5kg  
 23)	 Read Ramit Sethi’s	“I will teach you to be rich” and make my first investment  
-24)	 [Do yoga every day for a whole month](http://joe-robertson.github.io/A-Month-of-Yoga/)   
+24)	 [Do yoga every day for a whole month](http://joe-robertson.github.io/A-Month-of-Yoga/)  
 25)	 Write an individual blog post for each goal
