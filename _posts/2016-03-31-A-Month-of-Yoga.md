@@ -10,6 +10,7 @@ tags:
 
 
 
+
 This one was a little bit iffy. I think I can probably say that I passed it but in the end I actually did 30 days not 31 days of yoga in March… The one day that I missed was the day I rode 106km on a bike and so I’m going to give myself that day off. Still it’s a lot more consistent than I’ve ever been before and I worked pretty hard to squeeze in sessions around work and doing other exercise. I even managed to do a few days after a bottle of wine with dinner. That was a real balance challenge...
  
 For this month I did all the yoga at home and followed along with videos off a bunch of different YouTube channels. I’ve done a bit of yoga in the past but almost all of it has been just me doing stuff at home and the vast majority has been the same 30 minute David Swenson video. 
@@ -29,3 +30,5 @@ After the 30 day challenge was done I tried a few different teachers and did ses
 ![Just one red dot!!!](/images/yoga.jpg)
  
 From now on I’m planning on trying to sort out a few of my recurring injuries etc. by working through Kelly Starrett’s Becoming a Supple Leopard and just doing some regular stretching to try and sort my hamstrings and hips out for running. There are a few channels on YouTube that seem to be highly recommended as well like Tim Sensei and Stephen Beitler so I’ll probably have a crack at them too sometime.
+
+Namaste ;)
