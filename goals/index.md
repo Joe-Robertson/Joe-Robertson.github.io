@@ -25,7 +25,7 @@ It's my 25th birthday in April this year and so to celebrate being a quarter of 
 2)	 [Run 5km in under 20 minutes](http://joe-robertson.github.io/5km/)  
 3)	 Join a running club  
 4)	 [Complete Half-Life 2](http://joe-robertson.github.io/Half-Life-2/)  
-5)	 Read “Zen and the Art of Motorcycle Maintenance”  
+5)	 [Read “Zen and the Art of Motorcycle Maintenance”](http://joe-robertson.github.io/Zen-and-the-Art-of-Motorcycle-Maintenance/)  
 6)	 Finish Justin Guitar’s “Beginners Course”  
 7)	 Finish the Moodgym course on CBT and mental health  
 8)	 Read Kelly Starrett’s “Becoming a Supple Leopard”  
